@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Texto de prueba para hacer que actions funciones  
+Proyecto básico con una serie de flip flops en forma de Shift register.
 
 ## How to test
 
-Texto de prueba para hacer que actions funciones  
+Ingresar la secuencia 10110110 en los flip flips para que se muestre un 1 en la pantalla.  
 
 ## External hardware
 
